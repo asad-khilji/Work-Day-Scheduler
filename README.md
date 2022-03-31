@@ -33,7 +33,7 @@
 
 ## Screenshot
 
-* ![screenshot.png](/Users/mohammadasadkhilji/Documents/Work-Day-Scheduler/assets/images/work.png)
+* ![screenshot.png](https://github.com/asad-khilji/Work-Day-Scheduler/blob/main/assets/images/work.png)
 
 ## Contribution
 
