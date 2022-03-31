@@ -29,9 +29,11 @@
 
 ## Website
 
-* ![screenshot.png]()
+* https://asad-khilji.github.io/Work-Day-Scheduler/
 
 ## Screenshot
+
+* ![screenshot.png](/Users/mohammadasadkhilji/Documents/Work-Day-Scheduler/assets/images/work.png)
 
 ## Contribution
 
